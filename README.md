@@ -8,7 +8,7 @@ To achieve the segmentation task, this code utilized UNet to train and compare d
 ## Installation
 1. To install the repository, simply download the zip file or clone the repository.  
 ```
-git clone 
+git clone https://github.com/liudiepie/RGB-D_Segmentation.git
 ```
 
 2. After downloading the folder, upload the ipynb file to the google colab.  
