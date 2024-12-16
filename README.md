@@ -1,1 +1,1 @@
-# RGB-D-Segmentation
+# RGB-D Segmentation
